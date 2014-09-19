@@ -2,9 +2,10 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerBehaviour.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerStatsController.cs" Line="32" Column="87" />
-      <File FileName="Assets\Scripts\CharacterBase.cs" Line="18" Column="3" />
-      <File FileName="Assets\Scripts\PlayerBehaviour.cs" Line="17" Column="56" />
+      <File FileName="Assets\Scripts\AnimationController.cs" Line="36" Column="34" />
+      <File FileName="Assets\Scripts\PlayerStatsController.cs" Line="26" Column="5" />
+      <File FileName="Assets\Scripts\CharacterBase.cs" Line="13" Column="2" />
+      <File FileName="Assets\Scripts\PlayerBehaviour.cs" Line="46" Column="70" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

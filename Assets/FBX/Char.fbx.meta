@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 1ebc15c223c255446abedbdab3efba8e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bones
+    100002: BottomArmL
+    100004: BottomArmR
+    100006: BottomLegL
+    100008: BottomLegR
+    100010: //RootNode
+    100012: FingerL
+    100014: FingerR
+    100016: FingersL
+    100018: FingersR
+    100020: FootL
+    100022: FootR
+    100024: Head
+    100026: MeshChar
+    100028: Spine
+    100030: UperArmL
+    100032: UperArmR
+    100034: UperLegL
+    100036: UperLegR
+    100038: UpperHandL
+    100040: UpperHandR
+    400000: Bones
+    400002: BottomArmL
+    400004: BottomArmR
+    400006: BottomLegL
+    400008: BottomLegR
+    400010: //RootNode
+    400012: FingerL
+    400014: FingerR
+    400016: FingersL
+    400018: FingersR
+    400020: FootL
+    400022: FootR
+    400024: Head
+    400026: MeshChar
+    400028: Spine
+    400030: UperArmL
+    400032: UperArmR
+    400034: UperLegL
+    400036: UperLegR
+    400038: UpperHandL
+    400040: UpperHandR
+    4300000: MeshChar
+    7400000: IdlleAnimation
+    7400002: runAnimation
+    7400004: walkAnimation_
+    9500000: //RootNode
+    13700000: MeshChar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IdlleAnimation
+      takeName: IdlleAnimation
+      firstFrame: -1
+      lastFrame: 166
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones
+        weight: 1
+      - path: Bones/Spine
+        weight: 1
+      - path: Bones/Spine/Head
+        weight: 1
+      - path: Bones/Spine/UperArmL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL/FingerL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL/UpperHandL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL/UpperHandL/FingersL
+        weight: 1
+      - path: Bones/Spine/UperArmR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR/FingerR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR/UpperHandR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR/UpperHandR/FingersR
+        weight: 1
+      - path: Bones/Spine/UperLegL
+        weight: 1
+      - path: Bones/Spine/UperLegL/BottomLegL
+        weight: 1
+      - path: Bones/Spine/UperLegL/BottomLegL/FootL
+        weight: 1
+      - path: Bones/Spine/UperLegR
+        weight: 1
+      - path: Bones/Spine/UperLegR/BottomLegR
+        weight: 1
+      - path: Bones/Spine/UperLegR/BottomLegR/FootR
+        weight: 1
+      - path: MeshChar
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: runAnimation
+      takeName: runAnimation
+      firstFrame: -1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones
+        weight: 1
+      - path: Bones/Spine
+        weight: 1
+      - path: Bones/Spine/Head
+        weight: 1
+      - path: Bones/Spine/UperArmL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL/FingerL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL/UpperHandL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL/UpperHandL/FingersL
+        weight: 1
+      - path: Bones/Spine/UperArmR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR/FingerR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR/UpperHandR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR/UpperHandR/FingersR
+        weight: 1
+      - path: Bones/Spine/UperLegL
+        weight: 1
+      - path: Bones/Spine/UperLegL/BottomLegL
+        weight: 1
+      - path: Bones/Spine/UperLegL/BottomLegL/FootL
+        weight: 1
+      - path: Bones/Spine/UperLegR
+        weight: 1
+      - path: Bones/Spine/UperLegR/BottomLegR
+        weight: 1
+      - path: Bones/Spine/UperLegR/BottomLegR/FootR
+        weight: 1
+      - path: MeshChar
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walkAnimation_
+      takeName: walkAnimation_
+      firstFrame: -1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones
+        weight: 1
+      - path: Bones/Spine
+        weight: 1
+      - path: Bones/Spine/Head
+        weight: 1
+      - path: Bones/Spine/UperArmL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL/FingerL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL/UpperHandL
+        weight: 1
+      - path: Bones/Spine/UperArmL/BottomArmL/UpperHandL/FingersL
+        weight: 1
+      - path: Bones/Spine/UperArmR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR/FingerR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR/UpperHandR
+        weight: 1
+      - path: Bones/Spine/UperArmR/BottomArmR/UpperHandR/FingersR
+        weight: 1
+      - path: Bones/Spine/UperLegL
+        weight: 1
+      - path: Bones/Spine/UperLegL/BottomLegL
+        weight: 1
+      - path: Bones/Spine/UperLegL/BottomLegL/FootL
+        weight: 1
+      - path: Bones/Spine/UperLegR
+        weight: 1
+      - path: Bones/Spine/UperLegR/BottomLegR
+        weight: 1
+      - path: Bones/Spine/UperLegR/BottomLegR/FootR
+        weight: 1
+      - path: MeshChar
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .800000012
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
